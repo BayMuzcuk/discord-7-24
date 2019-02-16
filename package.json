@@ -1,0 +1,14 @@
+{
+  "name": "muzcalar",
+  "version": "0.0.1",
+  "description": "Discord'ta rahatça müzik çaldırmanıza yarar.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "BayMuzcuk",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
